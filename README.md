@@ -56,14 +56,6 @@
   <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlejandroPiedrahita&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroPiedrahita&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" width="45%" />
-</div>
 
 
 
