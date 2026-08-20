@@ -4,7 +4,7 @@
   <h3>💻 Ingeniero de Software | Full Stack & Data Engineer</h3>
 
   <p>
-    <a href="luisalejo866@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:luisalejo866@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <img src="https://img.shields.io/badge/Ubicación-Colombia-green?style=for-the-badge&logo=google-maps&logoColor=white" alt="Colombia" />
   </p>
 
